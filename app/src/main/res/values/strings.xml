@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">online-coffee-shop-app</string>
+
+    <!-- INTRO ACTIVITY -->
+    <string name="cd_intro_background_image">intro background image</string>
+    <string name="find_the_best_coffee_for_you">Find the best coffee\n for you</string>
+    <string name="coffee_shop">Coffee Shop</string>
+
+
 </resources>
