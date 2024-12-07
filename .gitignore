@@ -15,5 +15,8 @@
 local.properties
 
 # Android Studio user-specific files
-.idea/studiobot.xml
-.idea/deploymentTargetSelector.xml
+/.idea/deploymentTargetSelector.xml
+/.idea/studiobot.xml
+
+# Firebase files
+/app/google-services.json
